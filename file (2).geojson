@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.279397,
+          33.958765
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "name": "上分公民館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.330752,
+          33.985871
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "左右内公民館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.310953,
+          33.960094
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "下分公民館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.313113,
+          33.962171
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "下分保育所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.312018,
+          33.962011
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "旧下分小学校運動場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.35061,
+          33.967205
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "神山町役場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.350625,
+          33.966827
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "神山消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.349266,
+          33.967191
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "福田歯科医院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.367614,
+          33.96854
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "COCO歯科"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.370265,
+          33.971742
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "神山温泉いやしの湯"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.367803,
+          33.973584
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "道の駅「温泉の里神山」"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.342284,
+          33.968966
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "城西高校神山校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.342284,
+          33.968966
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "城西高校神山校体育館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.342284,
+          33.968966
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "城西高校神山校武道場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.357587,
+          33.969146
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "神領小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.357587,
+          33.969146
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "神領小学校体育館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.358226,
+          33.969617
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "旧神領幼稚園"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.354396,
+          33.975161
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "神山中学校運動場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360995,
+          33.97045
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "鮎喰川コモン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361758,
+          33.968245
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "神山町農村環境改善センター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.366346,
+          33.974201
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "神山町養護老人ホーム寿泉園"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.366346,
+          33.974201
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "神山町デイサービスセンター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.421813,
+          34.006435
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "旧鬼籠野小学校一ノ坂分校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.356361,
+          34.0048
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "旧阿川小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.35564,
+          34.005341
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "阿川公民館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.423502,
+          34.022786
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "神山森林公園イルローザの森"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.401442,
+          34.026804
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "広野公民館（広野支所）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.405783,
+          34.029742
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "広野保育所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.403766,
+          34.030185
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "広野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.403766,
+          34.030185
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "広野小学校体育館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.403766,
+          34.030185
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "広野小学校運動場"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.403508,
+          34.029109
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "旧広野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.403508,
+          34.029109
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "旧広野小学校体育館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.416683,
+          34.050015
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "特別養護老人ホーム神山すだち園"
+      }
+    }
+  ]
+}
